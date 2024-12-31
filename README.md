@@ -1,0 +1,6 @@
+
+This is a learning plan for mastering AWS Fundamentals. The goal is to build a solid understanding of AWS core services and how they work together for cloud-based application deployment and management. The topics covered include an introduction to cloud computing, the benefits of AWS, and its global infrastructure. Core AWS services like EC2, Lambda, S3, RDS, DynamoDB, and VPC will be explored, along with IAM for user and role management, and security practices such as Security Groups.
+
+Monitoring services like CloudWatch and CloudTrail will be included, along with automation tools like Elastic Beanstalk and CloudFormation for deploying applications. The learning timeline is structured weekly, starting with AWS basics, setting up an AWS Free Tier account, and moving through various services, networking, security, and deployment techniques.
+
+The tools used for this journey are the AWS Management Console, AWS CLI, and SDKs. Progress will be tracked by completing hands-on labs and achieving milestones like launching EC2 instances, managing S3 buckets, designing a VPC, and deploying serverless applications using AWS Lambda. The ultimate aim is to gain proficiency in AWS fundamentals and apply this knowledge to real-world projects.
